@@ -1,0 +1,15 @@
+C:\Users\Gaurav\source\repos\DuthcTreat\bin\Debug\netcoreapp2.1\DuthcTreat.deps.json
+C:\Users\Gaurav\source\repos\DuthcTreat\bin\Debug\netcoreapp2.1\DuthcTreat.runtimeconfig.json
+C:\Users\Gaurav\source\repos\DuthcTreat\bin\Debug\netcoreapp2.1\DuthcTreat.runtimeconfig.dev.json
+C:\Users\Gaurav\source\repos\DuthcTreat\bin\Debug\netcoreapp2.1\DuthcTreat.dll
+C:\Users\Gaurav\source\repos\DuthcTreat\bin\Debug\netcoreapp2.1\DuthcTreat.pdb
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.csprojAssemblyReference.cache
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.AssemblyInfoInputs.cache
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.AssemblyInfo.cs
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.RazorAssemblyInfo.cache
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.RazorAssemblyInfo.cs
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.RazorTargetAssemblyInfo.cache
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.dll
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.pdb
+C:\Users\Gaurav\source\repos\DuthcTreat\obj\Debug\netcoreapp2.1\DuthcTreat.genruntimeconfig.cache
